@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_menu_home">Home</string>
+    <string name="navigation_menu_profile">Profile</string>
+    <string name="navigation_notifcation">notifcation</string>
+</resources>
